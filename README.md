@@ -2,6 +2,8 @@
 <h3>Estou iniciando minha carreira na T.I em busca de ser um Desenvolvedor FullStack</h3>
 <p>Cursando Ciência da computação - UNINOVE</p>
 
+🔗 <a href="https://portfolio-guiszlima.vercel.app" target="_blank">Meu Portfólio</a>
+
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guiszlima&theme=radical)
 
 <div>
@@ -12,6 +14,7 @@
 </div>
 <hr>
 <div> 
+  <a href="https://portfolio-guiszlima.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/guiszlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:gui.spicacci.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-spicacci-lima-177a63245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
