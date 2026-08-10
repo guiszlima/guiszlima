@@ -1,22 +1,115 @@
-### Olá sou o Guilherme :wave:
-<h3>Estou iniciando minha carreira na T.I em busca de ser um Desenvolvedor FullStack</h3>
-<p>Cursando Ciência da computação - UNINOVE</p>
+# 👋 Olá, eu sou o Guilherme
 
-🔗 <a href="https://portfolio-guiszlima.vercel.app" target="_blank">Meu Portfólio</a>
+**Full Stack Software Developer**
+`C#/.NET` · `PHP/Laravel` · `React` · `Next.js` · `Python` · `SQL`
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guiszlima&theme=radical)
+```csharp
+public class Guilherme : Developer
+{
+    public string Role => "Full Stack Software Developer";
 
-<div>
-  <a href="https://github.com/guiszlima">
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=guiszlima&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiszlima&layout=compact&langs_count=16&theme=omni"/>
-  </a>
-</div>
-<hr>
-<div> 
-  <a href="https://portfolio-guiszlima.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/guiszlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:gui.spicacci.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-spicacci-lima-177a63245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5511991993229" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D36620?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+    public string[] Backend =>
+    [
+        "C# / .NET",
+        "PHP / Laravel",
+        "Python"
+    ];
+
+    public string[] Frontend =>
+    [
+        "React",
+        "Next.js",
+        "JavaScript / TypeScript",
+        "Blade",
+        "Tailwind CSS",
+        "Bootstrap"
+    ];
+
+    public string[] Database =>
+    [
+        "SQL",
+        "MySQL"
+    ];
+
+    public string[] Tools =>
+    [
+        "Git",
+        "Docker",
+        "Linux"
+    ];
+
+    public string[] Enterprise =>
+    [
+        "TOTVS Protheus",
+        "ADVPL"
+    ];
+}
+```
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor de software com experiência em **desenvolvimento web, automação e suporte técnico**, atualmente atuando na TOTVS.
+
+Minha trajetória começou com automações em **Python e PowerShell**, evoluiu para desenvolvimento web com **PHP/Laravel e React**, desenvolvimento de soluções para clientes e experiência com software empresarial.
+
+Também desenvolvi e comercializei um **sistema de PDV integrado ao WooCommerce**, sendo responsável pelo desenvolvimento, implantação, manutenção e evolução da solução.
+
+Atualmente estou aprofundando meus conhecimentos em **C#/.NET, arquitetura de software, testes e desenvolvimento de aplicações full-stack**.
+
+## 🛠️ Tecnologias
+
+**Backend**
+
+`C#` `.NET` `ASP.NET Core` `PHP` `Laravel` `Python`
+
+**Frontend**
+
+`React` `Next.js` `JavaScript` `TypeScript` `Blade` `Tailwind CSS` `Bootstrap`
+
+**Database**
+
+`SQL` `MySQL`
+
+**Tools & Infrastructure**
+
+`Git` `Docker` `Linux`
+
+**Enterprise**
+
+`TOTVS Protheus` `ADVPL`
+
+## 💻 Projetos
+
+### 🛒 PDV integrado ao WooCommerce
+
+Sistema de ponto de venda desenvolvido com **PHP/Laravel e MySQL**, integrado ao WooCommerce.
+
+O sistema foi desenvolvido para um cliente, posteriormente **comercializado e implantado**, e continuei responsável pelo suporte, manutenção e evolução da solução.
+
+### 📚 Enrollment Manager
+
+Sistema de gerenciamento de matrículas desenvolvido com **C#/.NET**, utilizado para aprofundar conhecimentos em arquitetura, autenticação, persistência, testes e desenvolvimento de APIs.
+
+### 🖥️ Automação de instalação de impressoras
+
+Automação desenvolvida durante meu estágio utilizando **Python, PowerShell e JSON**.
+
+A solução permitia cadastrar drivers e impressoras e posteriormente realizar a instalação a partir dos registros existentes, reduzindo etapas manuais do processo.
+
+### 🎨 Omni Theme for JetBrains
+
+Projeto de migração e adaptação do **Omni Theme** para o ecossistema JetBrains, desenvolvido para utilizar o tema no Rider e outros IDEs baseados na plataforma IntelliJ.
+
+## 📫 Contato
+
+🌐 **Portfólio:** [portfolio-guiszlima.vercel.app](https://portfolio-guiszlima.vercel.app)
+
+💼 **LinkedIn:** [linkedin.com/in/guilhermesouzalima](https://linkedin.com/in/guilhermesouzalima)
+
+📧 **E-mail:** `gui.spicacci.dev@gmail.com`
+
+---
+
+<p align="center">
+  <i>Building software, solving problems and learning something new every day.</i>
+</p>
