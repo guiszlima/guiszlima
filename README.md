@@ -16,7 +16,8 @@ public class Guilherme : Developer
 
     public string[] Database =>
     [
-        "MySQL", "SQL"
+        "MySQL", "SQL",
+        "SQL Server","Postgres SQL"
     ];
 
     public string[] Tools =>
